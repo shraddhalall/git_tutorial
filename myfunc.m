@@ -1,3 +1,5 @@
 function out = myfunc(arg)
 
-out = arg +2;
+arg = arg +2;
+out = arg + 2;
+
